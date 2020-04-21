@@ -1,0 +1,40 @@
+{
+  "name": "dorajs_nai_fei_ying_shi",
+  "displayName": "奈菲影视",
+  "version": "1.0.3",
+  "uuid": "91654310-90b9-420c-b64c-c3fad6226daa",
+  "description": "视频源于奈菲影视(https://www.nfmovies.com/)",
+  "icon": "assets/logo.png",
+  "prefs": "assets/prefs.json",
+  "main": "main.js",
+  "license": "UNLICENSED",
+  "author": {
+    "name": "i_can",
+    "fullName": "",
+    "email": "shiliu_fly@qq.com"
+  },
+  "engineStrick": true,
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "updates": "",
+  "contributes": {
+    "search": "list"
+  },
+  "homepage": "",
+  "engines": {
+    "dora": ">=1.4.0"
+  },
+  "keywords": [
+    "Dora.js"
+  ],
+  "dependencies": {
+    "axios": "^0.19.2",
+    "cheerio": "^1.0.0-rc.3"
+  },
+  "categories": [
+    "video"
+  ],
+  "donates": {}
+}
